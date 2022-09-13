@@ -1,11 +1,13 @@
 # Algorithm study
 
-## Programming Language: <br>Python
+## Programming Language: <br>
 
-## Duration: <br>2022-09-13 ~
+Python
+
+## Duration: <br>
+
+2022-09-13 ~
 
 ## Algorithm List
 
----
-
-- [Greedy Algorithm](./Greedy%20Algoritm/)
+- [Greedy Algorithm](./Greedy%20Algorithm/)
