@@ -1,8 +1,10 @@
 # Algorithm study
 
-## Programming Language: <br>Python
+## Programming Language: <br>
+Python
 
-## Duration: <br>2022-09-13 ~
+## Duration: <br>
+2022-09-13 ~
 
 ## Algorithm List
 
