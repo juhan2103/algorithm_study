@@ -10,4 +10,4 @@ Python
 
 ## Algorithm List
 
-- [Greedy Algorithm](./Greedy%20Algoritm/)
+- [Greedy Algorithm](./Greedy_Algorithm/)
