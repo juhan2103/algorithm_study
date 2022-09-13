@@ -1,11 +1,11 @@
-n = int(input())
-bag = 0
+n = int(input())  # n을 입력받는다
+bag = 0  # 최소 자루의 수
 while n >= 0:
-    if n % 5 == 0:
-        bag += n // 5
+    if n % 5 == 0:  # n이 5의 배수일 때
+        bag += n // 5  # n을 5로 나눈 몫을 자루 수에 더해준다
         print(bag)
-        break
-    n -= 3
-    bag += 1
-else:
+        break  # 반복문을 빠져나간다
+    n -= 3  # 5의 배수가 아니었을 때 3을 빼준다
+    bag += 1  # 3을 빼준 후 자루 수를 더해준다
+else:  # 5의 배수도 아니고 3을 뺐을 때 0이 되지 않으면 -1을 출력한다
     print(-1)
