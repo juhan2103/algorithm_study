@@ -8,6 +8,4 @@ Python
 
 ## Algorithm List
 
----
-
 - [Greedy Algorithm](./Greedy%20Algoritm/)
