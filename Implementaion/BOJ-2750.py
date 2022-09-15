@@ -4,5 +4,5 @@ for i in range(n):  # n만큼 반복
     num = int(input())  # 숫자를 입력받는다
     numbers.append(num)  # 입력받은 숫자를 리스트 안에 저장
 numbers.sort()  # 오름차순으로 정렬
-for i in numbers:  # 오름차순으로 출력
-    print(i)
+for i in numbers:
+    print(i)  # 오름차순으로 출력
