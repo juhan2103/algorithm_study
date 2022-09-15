@@ -11,4 +11,4 @@ Python
 ## Algorithm List
 
 - [Greedy Algorithm](./Greedy_Algorithm/)
-- [Realization](./Realization/)
+- [Implementation](./Implementaion/)
