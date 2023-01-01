@@ -5,4 +5,4 @@ data = data.replace('XX', 'BB')
 if 'X' in data:
     print(-1)
 else:
-    data
+    print(data)
