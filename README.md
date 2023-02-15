@@ -14,4 +14,5 @@ Python
 - [Data Structure](./Data_structure/)
 - [Greedy Algorithm](./Greedy_Algorithm/)
 - [Implementation](./Implementaion/)
+- [Number Theory](./Number_Theory/)
 - [Sort](./Sort/)
